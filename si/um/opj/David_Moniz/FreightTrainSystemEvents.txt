@@ -1,0 +1,53 @@
+
+2018/06/08 21:25:40 - CRITICAL - src\si\um\opj\David_Moniz\FreightTrain.ser (O sistema não conseguiu localizar o ficheiro especificado)
+2018/06/08 21:26:00 - WARNING - Reduce the weight of the container in order to load it to this freight train. 
+2018/06/08 21:26:38 - WARNING - Reduce the weight of the container in order to load it to this freight train. 
+2018/06/08 21:26:59 - WARNING - The weight of the item exceeds the container's maximum weight
+2018/06/08 21:27:10 - WARNING - The weight of the item exceeds the container's maximum weight
+2018/06/14 15:18:17 - REMARK - For input string: "3245.0" - Enter digits only on the digit inputs!
+2018/06/14 15:18:26 - REMARK - For input string: "3245.0" - Enter digits only on the digit inputs!
+2018/06/14 15:18:42 - CRITICAL - null
+2018/06/14 15:18:52 - REMARK - For input string: "43.0" - Enter digits only on the digit inputs!
+2018/06/14 15:18:57 - REMARK - For input string: "43.0" - Enter digits only on the digit inputs!
+2018/06/14 15:19:08 - WARNING - Reduce the weight of the container in order to load it to this freight train. 
+2018/06/14 15:19:31 - WARNING - The weight of the item exceeds the container's maximum weight
+2018/06/14 15:19:38 - WARNING - The weight of the item exceeds the container's maximum weight
+2018/06/14 15:19:40 - WARNING - The weight of the item exceeds the container's maximum weight
+2018/06/14 15:19:40 - WARNING - The weight of the item exceeds the container's maximum weight
+2018/06/19 02:38:07 - REMARK - For input string: "343443.0" - Enter digits only on the digit inputs!
+2018/06/19 02:39:15 - REMARK - For input string: "43.0" - Enter digits only on the digit inputs!
+2018/06/19 02:39:18 - REMARK - For input string: "43.0" - Enter digits only on the digit inputs!
+2018/06/19 02:40:13 - REMARK - For input string: "43.0" - Enter digits only on the digit inputs!
+2018/06/19 02:40:13 - REMARK - For input string: "43.0" - Enter digits only on the digit inputs!
+2018/06/19 02:40:13 - REMARK - For input string: "43.0" - Enter digits only on the digit inputs!
+2018/06/19 02:41:47 - REMARK - For input string: "244.0" - Enter digits only on the digit inputs!
+2018/06/19 02:41:57 - REMARK - For input string: "244.0" - Enter digits only on the digit inputs!
+2018/06/19 02:44:32 - REMARK - For input string: "43.0" - Enter digits only on the digit inputs!
+2018/06/19 02:46:21 - REMARK - For input string: "43.0" - Enter digits only on the digit inputs!
+2018/06/19 02:46:23 - REMARK - For input string: "43.0" - Enter digits only on the digit inputs!
+2018/06/19 02:46:23 - REMARK - For input string: "43.0" - Enter digits only on the digit inputs!
+2018/06/19 02:46:37 - CRITICAL - null
+2018/06/19 02:47:04 - REMARK - For input string: "45.0" - Enter digits only on the digit inputs!
+2018/06/19 02:47:34 - CRITICAL - null
+2018/06/19 02:47:47 - WARNING - Reduce the weight of the container in order to load it to this freight train. 
+2018/06/19 02:47:47 - WARNING - Reduce the weight of the container in order to load it to this freight train. 
+2018/06/19 02:47:48 - WARNING - Reduce the weight of the container in order to load it to this freight train. 
+2018/06/19 02:47:55 - WARNING - Reduce the weight of the container in order to load it to this freight train. 
+2018/07/29 01:18:03 - CRITICAL - null
+2018/07/29 01:18:25 - WARNING - Reduce the weight of the container in order to load it to this freight train. 
+2018/07/29 01:18:30 - WARNING - Reduce the weight of the container in order to load it to this freight train. 
+2018/07/29 01:18:53 - CRITICAL - null
+2018/07/29 01:19:18 - WARNING - Reduce the weight of the container in order to load it to this freight train. 
+2018/07/29 01:19:40 - REMARK - For input string: "44.0" - Enter digits only on the digit inputs!
+2018/07/29 01:23:13 - REMARK - For input string: "44.0" - Enter digits only on the digit inputs!
+2018/07/29 02:10:41 - REMARK - For input string: "44.0" - Enter digits only on the digit inputs!
+2018/07/29 02:10:43 - REMARK - For input string: "44.0" - Enter digits only on the digit inputs!
+2018/07/29 02:26:52 - REMARK - For input string: "44.0" - Enter digits only on the digit inputs!
+2018/07/29 02:27:06 - REMARK - For input string: "44.0" - Enter digits only on the digit inputs!
+2018/07/29 02:27:07 - REMARK - For input string: "44.0" - Enter digits only on the digit inputs!
+2018/07/29 02:29:34 - REMARK - For input string: "44.0" - Enter digits only on the digit inputs!
+2018/07/29 02:29:50 - WARNING - Reduce the weight of the container in order to load it to this freight train. 
+2018/07/29 02:29:51 - WARNING - Reduce the weight of the container in order to load it to this freight train. 
+2018/07/29 02:29:51 - WARNING - Reduce the weight of the container in order to load it to this freight train. 
+2018/07/29 02:29:51 - WARNING - Reduce the weight of the container in order to load it to this freight train. 
+2018/07/29 02:29:51 - WARNING - Reduce the weight of the container in order to load it to this freight train. 
